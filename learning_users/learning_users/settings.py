@@ -25,7 +25,7 @@ SECRET_KEY = '__@cwrar0*zrk)sw+d7p@)v1!w2!e&x5m46+v^1#=kwnz0n$u0'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['rutrle.pythonanywhere.com']
 
 
 # Application definition
